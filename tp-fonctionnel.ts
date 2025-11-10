@@ -115,7 +115,6 @@ console.log("2 plus jeunes :", deux);
 
 console.log("");// ligne vide pour séparer les parties
 
-// Partie Bonus
 
 type User = { name: string; age: number; country: string };
 
